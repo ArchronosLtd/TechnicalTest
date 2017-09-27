@@ -1,4 +1,4 @@
-# [archronos.io](https://archronos.io) - Frontend technical test
+# [archronos.com](http://archronos.com) - Frontend technical test
 
 This test is a part of our hiring process it should take you between 3 and 6 hours depending on your experience.
 
