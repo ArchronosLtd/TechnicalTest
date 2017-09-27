@@ -10,7 +10,7 @@ The app will have two different pages:
 - **Activity Feed** - simple list of calls
 - **Activity Detail** - detail of a call
 
-Show us what you can do in 6 hours top :) Don't spend too much time on designing your app, our design team will hate it anyway.
+Show us what you can do in 6 hours top :) Don't spend too much time (but some) on designing your app, our design team will hate it anyway.
 
 **Bonus:** the final user should be able to archive a call. The call will no longer be displayed on the Activity Feed. Please code that only if you have extra time.
 
